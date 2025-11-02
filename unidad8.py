@@ -1,10 +1,4 @@
-# -------------------------------
-# Práctica: Archivos - Programación I
-# -------------------------------
-# Autor: ChatGPT
-# Descripción:
-# Manejo de archivos de texto para gestionar productos
-# -------------------------------
+
 
 def crear_archivo_inicial():
     """Crea el archivo productos.txt con tres productos iniciales."""
